@@ -12,7 +12,7 @@ description: We are data scientists, living in Seattle Metro.   You can find ou
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 # Overall site theme
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 
 #
 # Flags below are optional
